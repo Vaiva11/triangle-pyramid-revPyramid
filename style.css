@@ -1,0 +1,13 @@
+button {
+    margin: 20px;
+}
+
+#result {
+    margin: 20px;
+    outline: solid black 1px;
+    padding: 20px;
+}
+
+#output {
+    font-family: 'Courier New', Courier, monospace;
+}
